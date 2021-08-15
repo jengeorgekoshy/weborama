@@ -1,3 +1,18 @@
-#hi{
-    color:blue;
+#first {
+  text-align: center;
+  height: 700px;
+  color: blue;
+  background-color: rgb(238, 123, 77);
+}
+
+.second {
+  height: 200px;
+  color: rgb(31, 126, 7);
+  background-color: rgb(95, 15, 19);
+}
+
+.third {
+  height: 500px;
+  color: rgb(112, 82, 7);
+  background-color: rgb(18, 0, 100);
 }
